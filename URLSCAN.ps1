@@ -36,4 +36,6 @@ $scanResult.page | ForEach-Object {
     Write-Host "$Verdict"
 }
 
+pause
+
 
